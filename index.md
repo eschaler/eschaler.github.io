@@ -28,8 +28,8 @@ Legged Exploration Across the Plume (NIAC Project Overview)
 - Ongoing work – check back soon!
 
 
-# Education
-PhD @ Univ. of California, Berkeley (2018)
+# School
+PhD @ Univ. of California, Berkeley (2018) <\br>
    Electrical Engineering
 
 MPhil @ Univ. of Cambridge (2012)
