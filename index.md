@@ -1,3 +1,8 @@
+---
+title: Ethan Schaler
+description: Robotics, sensors, and space
+---
+
 # Bio
 Ethan Schaler is a Robotics Mechanical Engineer at the NASA Jet Propulsion Laboratory, in the Mobility and Robotic Systems Section / Extreme Environment Robotic Systems Group. With backgrounds in Electrical Engineering (PhD), Mechanical Engineering (BS), and Micro- / Nanotechnology (MPhil), Ethan collaborates with researchers in a variety of disciplines to design, model, fabricate, and characterize new robotic systems at µm- to cm-scales.
 
