@@ -7,6 +7,7 @@ Ethan is always interested in exploring new, unique actuation and sensing techno
 
 He has previously interned at the NASA Jet Propulsion Laboratory in 2016 and NASA Goddard in 2006, was the recipient of the Churchill, NSF GRFP, NDSEG, and Goldwater scholarships, and was awarded the Best Paper awared at IEEE Aerospace Conf. 2025 and the Best Student Paper award at MARSS Conf. 2018.
 
+
 # Work
 ## FLOAT 
 Flexible Levitation On A Track (NIAC Project Overview)
@@ -26,17 +27,18 @@ Legged Exploration Across the Plume (NIAC Project Overview)
 
 - Ongoing work – check back soon!
 
+
 # Education
 PhD @ Univ. of California, Berkeley (2018)
-Electrical Engineering
+   Electrical Engineering
 
 MPhil @ Univ. of Cambridge (2012)
-Micro- and Nanotechnology Enterprise
+   Micro- and Nanotechnology Enterprise
 
 BS @ Univ. of Maryland, College Park (2011)
-Mechanical Engineering
+   Mechanical Engineering
 
 Internships:
-    2016 - NASA JPL (USA)
-    2009/10 - Tohoku Univ. (Japan)
-    2008/09 - RIKEN (Japan)
+   2016 - NASA JPL (USA)
+   2009/10 - Tohoku Univ. (Japan)
+   2008/09 - RIKEN (Japan)
