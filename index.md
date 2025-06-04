@@ -29,13 +29,13 @@ Legged Exploration Across the Plume (NIAC Project Overview)
 
 
 # School
-PhD @ Univ. of California, Berkeley (2018) <\br>
+PhD @ Univ. of California, Berkeley (2018) <br>
    Electrical Engineering
 
-MPhil @ Univ. of Cambridge (2012)
+MPhil @ Univ. of Cambridge (2012)  
    Micro- and Nanotechnology Enterprise
 
-BS @ Univ. of Maryland, College Park (2011)
+BS @ Univ. of Maryland, College Park (2011)  
    Mechanical Engineering
 
 Internships:
