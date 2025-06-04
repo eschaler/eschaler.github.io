@@ -1,6 +1,5 @@
 ---
 title: Ethan Schaler
-description: Robotics, sensors, and space
 ---
 
 # Bio
